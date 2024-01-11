@@ -6,7 +6,7 @@ The following image shows an example for a continuous channel:
 
 ![Bildschirmfoto vom 2024-01-11 11-47-19](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Casting/assets/89903493/5f39e7bd-4482-46ef-98c6-a40bae138d3c)
 
-A casting tree example might look like this:
+A casting tree example might look like the follwing image. As alyways, the branching from one channel into two is problematic to get right (cross section areas must add up!):
 
 ![Bildschirmfoto vom 2024-01-11 11-49-04](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Casting/assets/89903493/5a017af1-96c7-4183-9825-0531dc8c583b)
 
