@@ -252,10 +252,7 @@ def create_continuous_channel(base_centers, area_first, area_factor_per_seg, \
             base_length1 = base_length_first * length_increase_per_seg**i
             top_length1 = top_length_factor * base_length1
             height1 = base_length1 * 2 / 3
-                    
-            vector0 = [ base_centers[i][0]-base_centers[i-1][0],\
-                        base_centers[i][1]-base_centers[i-1][1],\
-                        base_centers[i][2]-base_centers[i-1][2] ]
+
             vector0 = [1, 0, 0]
             vector1 = [ base_centers[i+1][0]-base_centers[i][0],\
                         base_centers[i+1][1]-base_centers[i][1],\
