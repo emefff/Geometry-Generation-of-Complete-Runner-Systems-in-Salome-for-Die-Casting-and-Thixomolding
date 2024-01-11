@@ -315,7 +315,7 @@ create_continuous_channel(point_list7, 28, 0.9, 1.03, 7)
 
 ####################### CREATE A SINGLE CHANNEL ###############################
 # with a continuous channel, we do not need a scale_factor_XY_connector other than 1.0
-point_list15 = [[0,0,0], [50, 25, 0], [100, 30, 0], [150, -50, 0] ]
+point_list15 = [[0, 0, 0], [50, 25, 0], [100, 30, 0], [150, -50, 0] ]
 create_continuous_channel(point_list15, 100, 0.9, 1.0, 15)
 
 if salome.sg.hasDesktop():
