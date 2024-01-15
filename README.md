@@ -23,6 +23,6 @@ The included video shows how easy corrections can be made, both inner runners an
 
 ![Bildschirmfoto vom 2024-01-15 15-41-17](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/336de16c-439b-4c6c-bd95-fbeca4fbdd92)
 
-Your design engineer won't be happy, but that's the way it is. This script may also be suitable for injection molding, but we are absolutely no experts for that.
+Your design engineer won't be happy, but that's the way it is. This script may also be suitable for injection molding, but we are absolutely no experts for that. Use at your own risk.
 
 emefff@gmx.at
