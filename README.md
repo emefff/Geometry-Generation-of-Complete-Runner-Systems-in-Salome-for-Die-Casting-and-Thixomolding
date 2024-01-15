@@ -14,7 +14,7 @@ The latest version of this script can also create inlet fans according to NADCA 
 
 ![Bildschirmfoto vom 2024-01-15 15-38-03](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/fdefdd49-99a1-475e-9bdd-59e737c2b0ee)
 
-The incluede video shows how easy corrections can be made. As almost everything is paramatrized, corrections only take seconds instead of hours (in case the design engineer did not use any parametrization). Here is a screenshot after the corrections:
+The incluede video shows how easy corrections can be made, both inner runners and ingates are moved +-5mm to the center. As almost everything is paramatrized, corrections only take seconds instead of hours (in case the design engineer did not use any parametrization). Here is a screenshot after the corrections:
 
 ![Bildschirmfoto vom 2024-01-15 15-41-17](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/336de16c-439b-4c6c-bd95-fbeca4fbdd92)
 
