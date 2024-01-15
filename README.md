@@ -14,6 +14,11 @@ The latest version of this script can also create inlet fans according to NADCA 
 
 ![Bildschirmfoto vom 2024-01-15 15-38-03](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/fdefdd49-99a1-475e-9bdd-59e737c2b0ee)
 
+The following image shows the typical shape of such a runner with constant area progression and constant opening angle. The shape is computed from 25 cross sections (is of course variable), however Salome does some interpolations on the curves for viewing. The nonlinear height is a typical sign of such a runner:
+
+![Bildschirmfoto vom 2024-01-15 16-14-26](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/8efb3a9b-bd0e-45fc-bb20-67f38fe204ca)
+
+
 The included video shows how easy corrections can be made, both inner runners and ingates are moved +-5mm to the center. As almost everything is paramatrized, corrections only take seconds instead of hours (in case the design engineer did not use any parametrization). Here is a screenshot after the corrections:
 
 ![Bildschirmfoto vom 2024-01-15 15-41-17](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/336de16c-439b-4c6c-bd95-fbeca4fbdd92)
