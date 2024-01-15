@@ -14,7 +14,7 @@ The latest version of this script can also create inlet fans according to NADCA 
 
 ![Bildschirmfoto vom 2024-01-15 15-38-03](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/fdefdd49-99a1-475e-9bdd-59e737c2b0ee)
 
-The following image shows the typical shape of such aingate fan with constant area progression and constant opening angle. The shape is computed from 25 cross sections (is of course variable), however Salome does some interpolations on the curves for viewing. The nonlinear height is a typical feature of these types an ingate fans:
+The following image shows the typical shape of such an ingate fan with constant area progression and constant opening angle. The shape is computed from 25 cross sections (is of course variable), however Salome does some interpolations on the curves for viewing. The nonlinear height is a typical feature of these types an ingate fans:
 
 ![Bildschirmfoto vom 2024-01-15 16-14-26](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/8efb3a9b-bd0e-45fc-bb20-67f38fe204ca)
 
