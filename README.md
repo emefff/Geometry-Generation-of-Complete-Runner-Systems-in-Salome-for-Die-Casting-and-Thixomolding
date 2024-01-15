@@ -10,7 +10,7 @@ A casting tree example might look like the follwing image. As alyways, the branc
 
 ![Bildschirmfoto vom 2024-01-11 11-49-04](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Casting/assets/89903493/5a017af1-96c7-4183-9825-0531dc8c583b)
 
-The latest version of this script can also create inlet fans according to NADCA (we prefer those with constant angle). It is very important that such inlet fans have constant area or a defined area progression from first to last face. Just connecting the more quadratic first face with the last elongated and thin face is a very common mistake in runner desing. We have seen it MANY TIMES from other designers, but it creates an area maximum somewhere in the center. The excess aire present in this volume is blown into the part! A complete runner system with such ingates may look like this, the dummy part is just a 2.5mm plate with a step:
+The latest version of this script can also create inlet fans according to NADCA (we prefer those with constant angle). It is very important that such inlet fans have constant area or a defined area progression from first to last face. Just connecting the more quadratic first face with the last elongated and thin face is a very common mistake in runner design. We have seen it MANY TIMES from other designers, but it creates an area maximum somewhere near the center. The excess air present in this volume is blown into the part! A complete runner system with such ingates may look like this, the dummy part is just a 2.5mm plate with a step:
 
 ![Bildschirmfoto vom 2024-01-15 15-38-03](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/fdefdd49-99a1-475e-9bdd-59e737c2b0ee)
 
