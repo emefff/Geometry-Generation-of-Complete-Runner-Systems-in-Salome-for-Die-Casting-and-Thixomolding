@@ -8,16 +8,16 @@ The following image shows an example for a continuous channel generated from a l
 
 The latest version of this script can also create inlet fans according to NADCA (we prefer those with constant angle). It is very important that such inlet fans have constant area or a defined area progression from first to last face. Just connecting the more quadratic first face with the last elongated and thin face is a very common mistake in runner design. We have seen it MANY TIMES from other designers, but it creates an area maximum somewhere near the center. The excess air present in this volume is blown into the part! A complete runner system with such ingates may look like this, the dummy part is just a 2.5mm plate with a step:
 
-![Bildschirmfoto vom 2024-01-15 15-38-03](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/fdefdd49-99a1-475e-9bdd-59e737c2b0ee)
+![Bildschirmfoto vom 2024-01-17 19-19-22](https://github.com/emefff/Geometry-Generation-of-Complete-Runner-Systems-in-Salome-for-Die-Casting-and-Thixomolding/assets/89903493/e2f816dc-0feb-4966-84db-db1e2009bcb0)
 
 The following image shows the typical shape of such an ingate fan with constant area progression and constant opening angle. The shape is computed from 25 cross sections (is of course variable), however Salome does some interpolations on the curves for viewing. The nonlinear height is a typical feature of these types an ingate fans:
 
 ![Bildschirmfoto vom 2024-01-15 16-14-26](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/8efb3a9b-bd0e-45fc-bb20-67f38fe204ca)
 
+The included video shows how easy corrections can be made (however, it shows an older version of the model), both inner runners and ingates are moved +-2.5mm to the center. As almost everything is parametrized, corrections only take seconds instead of hours (in case the design engineer did not use any parametrization). Here is a screenshot after the corrections:
 
-The included video shows how easy corrections can be made, both inner runners and ingates are moved +-5mm to the center. As almost everything is parametrized, corrections only take seconds instead of hours (in case the design engineer did not use any parametrization). Here is a screenshot after the corrections:
+![Bildschirmfoto vom 2024-01-17 19-22-48](https://github.com/emefff/Geometry-Generation-of-Complete-Runner-Systems-in-Salome-for-Die-Casting-and-Thixomolding/assets/89903493/d405889a-6dc3-4ecc-a378-d1443e173644)
 
-![Bildschirmfoto vom 2024-01-15 15-41-17](https://github.com/emefff/Geometry-Generation-of-Runners-in-Salome-for-Die-Casting/assets/89903493/336de16c-439b-4c6c-bd95-fbeca4fbdd92)
 
 Your design engineer won't be happy, but that's the way it is. This script may also be suitable for injection molding, but we are absolutely no experts for that. Use at your own risk.
 
